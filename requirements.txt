@@ -1,0 +1,6 @@
+nltk
+emoji
+contractions
+streamlit
+scikit-learn== 1.7.1
+joblib
